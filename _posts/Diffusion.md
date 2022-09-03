@@ -7,11 +7,7 @@ categories: [probabilistic models, deep learning]
 
 ## Forward Process
 
-<hr>
-
 ## Reverse Process
-
-<hr>
 
 ## Improvements
 
